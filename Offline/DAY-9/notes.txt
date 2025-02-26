@@ -1,0 +1,39 @@
+Deep Learning :
+-----------------
+key points :
+    -neural network
+    -Actuation function
+        Three types of Actuation functions :
+            1. inputs 
+            2.hidden layers
+            3.outputs
+    -Back propegation 
+
+
+
+
+    4. health care systems- like finding diseases cancers etc..
+    5. finance applications - like Stock market predictions,and fraud currancy Dedection.
+
+
+Deep learning frameworks:
+
+the following deep learning frameworks or the most commonly used in the market...
+    -------------------------------------------------------------------
+    1. TensorFlow
+    2.PyTorch
+    3.keras
+    
+------------
+TensorFlow:
+------------
+
+-> TensorFlow is a powerful library that allows developers to build and train the machine learning Models efficiently.
+
+->It works with Tensors which are multi-dimentional arrays and supports both CPU and GPU exilaration for High performance Computations.
+
+    Key features of TensorFlow:
+    -.-.-.-.-.-..-.-.-.-.-.-.-.
+    -> Scalibility --: It works on a verity of devices form mobilephoneslarge scale Distributed       systems.
+
+    ->Flexible Architecture --: It can build models using I-level API's like keras.
